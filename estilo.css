@@ -1,0 +1,472 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@700;800&family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@700;800&family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@700;800&family=Inter:wght@400;700&display=swap');
+
+header{
+    font-family: 'Dosis', sans-serif;
+    background: #22A0A0;
+    position: absolute;
+
+    width: 1920px;
+    height: 158px;
+    left: 0px;
+    top: 0px;
+
+}
+
+
+
+body{
+    font-family: 'Inter', sans-serif;
+color: #FFFF;
+
+
+}
+
+#banner {
+height: 1000px;
+max-width: 1100px;
+margin-top: 50px;
+margin: auto;
+display: flex;
+justify-content: space-between;
+
+
+
+}
+
+#logo {
+
+min-width:  100px;
+height: 90px;
+left: 1000px;
+top: 50px; 
+
+
+
+
+}
+
+#pesquisa input { 
+
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 75px; 
+    background-color: white;
+    display: block;
+}
+#pesquisa img {
+
+   
+        position: absolute;
+        padding-top: 2px;
+        top: 76px;
+        left: 1000px;
+        transform: matrix(0, -1, -1, 0, 0, 0);
+    
+    
+
+}
+
+#menu{
+ 
+ top: 41px;
+ height: 80px;
+
+
+}
+
+#menu ul a{ 
+
+ list-style: none;
+ text-decoration: none;
+ color: white;
+
+}
+
+
+header ul {
+
+    display: flex;
+
+
+}
+
+header ul li{ 
+display: inline-block;
+color: #FFFFFF;
+list-style: none;
+margin-top: 60px;
+padding: 7px;
+
+
+
+}
+
+header ul li:hover, header ul li.selecionado {
+
+    border-bottom: 2px solid #FFFFFF ; 
+
+}
+
+#rodape {
+
+    font-family: 'Dosis', sans-serif;
+    background: #22A0A0;
+    position: absolute;
+    width: 1920px;
+    height: 158px;
+    left: 0px;
+    top: 1400px;
+
+
+
+
+}
+
+#inforodape {
+
+    font-family: 'Inter', sans-serif;
+    margin-top: 30px;
+    margin-left: 300px;
+
+
+
+
+}
+
+#inforempresa {
+
+    font-family: 'Inter', sans-serif;
+
+
+
+}
+
+#logorodape {
+    
+    position: absolute;
+    padding-top: 2px;
+    top: 40px;
+    left: 1450px;
+    
+   
+   
+   
+
+
+}
+
+#ficadentro {
+
+    font-family: 'Dosis', sans-serif;
+    color: black;
+    position: absolute;
+    padding-top: 35px;
+    top: 150px;
+    left: 800px;
+}
+#america {
+    width: 500px;
+    position: absolute;
+    padding-top: 2px;
+    top: 300px;
+    left: 450px;
+
+
+
+}
+
+
+#titulo1 {
+    font-family: 'Inter', sans-serif;
+    color: black;
+    position: absolute;
+    padding-top: 400px;
+    top: 110px;
+    left: 450px;
+
+
+}
+
+#titulo1 {
+    font-family: 'Inter', sans-serif;
+    color: black;
+    position: absolute;
+    padding-top: 400px;
+    top: 110px;
+    left: 450px;
+
+
+}
+
+
+#subtitulo1 {
+
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    
+        color: black;
+        position: absolute;
+        padding-top: 110px;
+        top: 450px;
+        left: 450px;
+    
+    
+    
+    
+
+}
+
+#saiba1 {
+
+    font-family: 'Inter', sans-serif;
+    color: black;
+    position: absolute;
+    padding-top: 400px;
+    top: 230px;
+    left: 830px;
+
+
+
+}
+
+#neve {
+
+    position: absolute;
+    padding-top: 2px;
+    top: 700px;
+    left: 450px;
+
+}
+
+
+
+#titulo2 {
+    font-family: 'Inter', sans-serif;
+    color: black;
+    position: absolute;
+    padding-top: 400px;
+    top: 450px;
+    left: 450px;
+
+
+}
+
+#subtitulo2 {
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    
+        color: black;
+        position: absolute;
+        padding-top: 110px;
+        top: 810px;
+        left: 450px;
+    
+
+
+
+}
+
+#mat {
+
+    position: absolute;
+    padding-top: 2px;
+    top: 700px;
+    left: 740px;
+
+
+}
+
+#titulo3 {
+    font-family: 'Inter', sans-serif;
+    color: black;
+    position: absolute;
+    padding-top: 400px;
+    top: 450px;
+    left: 740px;
+
+
+}
+
+#subtitulo3 {
+
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    
+        color: black;
+        position: absolute;
+        padding-top: 110px;
+        top: 810px;
+        left: 740px;
+    
+
+
+}
+
+
+
+
+#saiba2 {
+
+    font-family: 'Inter', sans-serif;
+    color: black;
+    position: absolute;
+    padding-top: 400px;
+    top: 620px;
+    left: 830px;
+
+
+
+}
+
+
+#saiba3 {
+
+    font-family: 'Inter', sans-serif;
+    color: black;
+    position: absolute;
+    padding-top: 400px;
+    top: 620px;
+    left:570px;
+
+    
+
+}
+
+#gramados {
+
+    
+    position: absolute;
+    padding-top: 2px;
+    top: 1100px;
+    left: 450px;
+
+   
+
+
+}
+
+#titulo4 {
+
+    font-family: 'Inter', sans-serif;
+    color: black;
+    position: absolute;
+    padding-top: 400px;
+    top: 860px;
+    left: 450px;
+
+
+    
+}
+
+
+#rj {
+
+    
+    position: absolute;
+    padding-top: 2px;
+    top: 1100px;
+    left: 740px;
+
+   
+
+
+
+}
+
+#titulo5 {
+
+    font-family: 'Inter', sans-serif;
+    color: black;
+    position: absolute;
+    padding-top: 400px;
+    top: 860px;
+    left: 730px;
+
+}
+
+
+#saiba4 {
+
+     font-family: 'Inter', sans-serif;
+    color: black;
+    position: absolute;
+    padding-top: 400px;
+    top: 230px;
+    left: 1300px;
+    
+
+}
+
+#mexico {
+
+    height: 220px;
+    position: absolute;
+    padding-top: 2px;
+    top: 300px;
+    left: 1100px;
+
+    
+
+
+
+}
+#titulo6 {
+
+
+font-family: Inter;
+    
+    
+        color: black;
+        position: absolute;
+        padding-top: 110px;
+        top: 400px;
+        left: 1100px;
+
+    }
+
+
+    #subtitulo6 {
+
+    
+        font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        
+            color: black;
+            position: absolute;
+            padding-top: 110px;
+            top: 450px;
+            left: 1100px;
+        
+        
+        
+        
+    
+    }
+
+    #linha {
+
+        position: absolute;
+    width: 1100px;
+    height: 0px;
+    left: 500px;
+    top: 820px;
+
+    border: 1px solid #22A0A0;
+    transform: rotate(90deg);
+
+
+    }
+
+
+
+
